@@ -69,7 +69,8 @@ A Python-based application with a user-friendly GUI for converting CAD files int
 
 <h2 align="left">🎥 Demo</h2>
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_HkGu0KS_1k?si=cFv6JCH7bdSoszax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <body><iframe width="560" height="315" src="https://www.youtube.com/embed/_HkGu0KS_1k?si=cFv6JCH7bdSoszax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></body>
+  
 </p>
 
 ---
@@ -93,6 +94,7 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 
 <h2 align="left">📜 License</h2>
 <p align="left">
+  
 This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.
 </p>
 
