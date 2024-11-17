@@ -35,7 +35,7 @@ A Python-based application with a user-friendly GUI for converting CAD files int
 <h3 align="left">2. Slicing in Progress</h3>
 <p align="left">
   <em>Preview the slicing process in real time.</em><br>
-  <img src="images/slicing_progress.png" alt="Slicing Progress" width="600">
+  <img src="[images/slicing_progress.png](https://github.com/user-attachments/assets/a1c6ebf0-fbc3-4f69-835a-06636e74aa3a)" alt="Slicing Progress" width="600">
 </p>
 
 <h3 align="left">3. Output Layers</h3>
