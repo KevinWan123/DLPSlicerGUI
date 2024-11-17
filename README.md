@@ -69,7 +69,7 @@ A Python-based application with a user-friendly GUI for converting CAD files int
 
 <h2 align="left">🎥 Demo</h2>
 <p align="left">
- [![YouTube Video](https://img.youtube.com/vi/_HkGu0KS_1k/0.jpg)](https://www.youtube.com/watch?v=_HkGu0KS_1k)
+ <href src ="https://img.youtube.com/vi/_HkGu0KS_1k/0.jpg)](https://www.youtube.com/watch?v=_HkGu0KS_1k)" > DEMO VIDEO</href>
   
 </p>
 
