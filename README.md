@@ -41,7 +41,7 @@ A Python-based application with a user-friendly GUI for converting CAD files int
 <h3 align="left">3. Output Layers</h3>
 <p align="left">
   <em>Generated 2D slices ready for DLP printing.</em><br>
-  <img src="images/output_layers.png" alt="Output Layers" width="600">
+  <img src="https://github.com/user-attachments/assets/662d2113-e27f-4d22-b2b4-5e5cdf926654" alt="Output Layers" width="600">
 </p>
 
 ---
