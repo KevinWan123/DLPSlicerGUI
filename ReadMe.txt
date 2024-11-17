@@ -44,6 +44,7 @@ A Python-based application with a user-friendly GUI for converting CAD files int
    cd dlp-slicing-program
 
 
+---
 
 
 To run program, go into gui folder and run MainGUI
