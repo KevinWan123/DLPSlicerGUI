@@ -29,7 +29,8 @@ A Python-based application with a user-friendly GUI for converting CAD files int
 <h3 align="left">1. User Interface</h3>
 <p align="left">
   <em>Upload your CAD file and configure slicing parameters easily.</em><br>
-  <img src="images/gui_screenshot.png" alt="GUI Screenshot" width="600">
+  <img src="![image](https://github.com/user-attachments/assets/63e6dac8-ddf7-4077-ae0b-adf8b38f31b1)
+" alt="GUI Screenshot" width="600">
 </p>
 
 <h3 align="left">2. Slicing in Progress</h3>
