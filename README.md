@@ -69,8 +69,7 @@ A Python-based application with a user-friendly GUI for converting CAD files int
 
 <h2 align="left">🎥 Demo</h2>
 <p align="left">
-  <em>A short GIF showcasing the GUI workflow.</em><br>
-  <img src="images/demo.gif" alt="Demo GIF" width="600">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_HkGu0KS_1k?si=cFv6JCH7bdSoszax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ---
