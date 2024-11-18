@@ -7,8 +7,8 @@ A Python-based application with a user-friendly GUI for converting CAD files int
   <a href="https://github.com/yourusername/dlp-slicing-program">
     <img src="https://komarev.com/ghpvc/?username=kevinwan123&label=Project%20Views&color=blue" alt="page views" />
   </a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?color=green&logo=github">
+  <a href="https://github.com/kevinwan123?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/KevinWan123?color=green&logo=github">
   </a>
 </p>
 
